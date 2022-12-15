@@ -37,8 +37,8 @@ public class Main {
     System.out.println();
     //Group of Batteries
     System.out.println("Group Low: "+"100 300");
-	  System.out.println("Group Medium: "+"500 600 900");
-	  System.out.println("Group High: "+"1000");
+    System.out.println("Group Medium: "+"500 600 900");
+    System.out.println("Group High: "+"1000");
     System.out.println();
     
     System.out.println("Done counting :)\n");
